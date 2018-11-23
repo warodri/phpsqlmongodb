@@ -1,0 +1,5 @@
+{
+    "require": {
+        "soundintheory/php-sql-parser": "^1.0"
+    }
+}
